@@ -1,0 +1,1 @@
+/Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/bin/avrdude -P /dev/tty.usbmodemfa1321 -C /Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/etc/avrdude.conf -c arduino -p atmega328p -b115200 -D -U$1
